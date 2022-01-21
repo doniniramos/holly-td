@@ -6460,3 +6460,221 @@ Make sure 'EnemyCharacter_C' has been compiled for  Set PortalLocation
 [2022.01.21-00.38.03:128][687]AssetCheck: New page: Asset Save: multiple assets
 [2022.01.21-00.38.03:128][687]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TowerDefenseBP/Maps/MovementMap_BuiltData.MovementMap_BuiltData
 [2022.01.21-00.38.03:128][687]LogContentValidation: Display: Validating World /Game/TowerDefenseBP/Maps/MovementMap.MovementMap
+[2022.01.21-00.39.14:463][ 32]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.21-00.39.14:464][ 32]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.21-00.39.45:616][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.01.21-00.39.45:641][979]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/HollyTD/Saved/MovementMapF319DEA04418A2A2A6AA7BAFC955E184.tmp' to '../../../../../Documents/Unreal Projects/HollyTD/Content/TowerDefenseBP/Maps/MovementMap.umap'
+[2022.01.21-00.39.45:654][979]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TowerDefenseBP/Maps/MovementMap_BuiltData
+[2022.01.21-00.39.45:654][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerDefenseBP/Maps/MovementMap_BuiltData" FILE="../../../../../Documents/Unreal Projects/HollyTD/Content/TowerDefenseBP/Maps/MovementMap_BuiltData.uasset" SILENT=true
+[2022.01.21-00.39.45:791][979]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/HollyTD/Saved/MovementMap_BuiltDataAE527CB5429675A8CD2446ABB11E1183.tmp' to '../../../../../Documents/Unreal Projects/HollyTD/Content/TowerDefenseBP/Maps/MovementMap_BuiltData.uasset'
+[2022.01.21-00.39.45:793][979]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TowerDefenseBP/Maps/MovementMap_BuiltData
+[2022.01.21-00.39.45:808][979]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.21-00.39.45:808][979]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TowerDefenseBP/Maps/MovementMap_BuiltData.MovementMap_BuiltData
+[2022.01.21-00.39.45:808][979]LogContentValidation: Display: Validating World /Game/TowerDefenseBP/Maps/MovementMap.MovementMap
+[2022.01.21-00.39.51:999][377]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.01.21-00.39.52:007][377]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.01.21-00.39.52:008][377]LogPlayLevel: [PlayLevel] Compiling EnemyCharacter before play...
+[2022.01.21-00.39.52:090][377]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.01.21-00.39.52:092][377]LogPlayLevel: PlayLevel: Blueprint regeneration took 84 ms (1 blueprints)
+[2022.01.21-00.39.52:092][377]PIE: New page: PIE session: MovementMap (Jan 20, 2022, 7:39:52 PM)
+[2022.01.21-00.39.52:092][377]LogPlayLevel: Creating play world package: /Game/TowerDefenseBP/Maps/UEDPIE_0_MovementMap
+[2022.01.21-00.39.52:108][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015706s)
+[2022.01.21-00.39.52:109][377]LogAIModule: Creating AISystem for world MovementMap
+[2022.01.21-00.39.52:110][377]LogPlayLevel: PIE: World Init took: (0.002149s)
+[2022.01.21-00.39.52:110][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TowerDefenseBP/Maps/MovementMap.MovementMap to /Game/TowerDefenseBP/Maps/UEDPIE_0_MovementMap.MovementMap (0.018084s)
+[2022.01.21-00.39.52:157][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.01.21-00.39.52:158][377]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2022.01.21-00.39.52:159][377]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.21-00.39.52:159][377]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.21-00.39.52:159][377]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.21-00.39.52:159][377]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.21-00.39.52:159][377]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.21-00.39.52:159][377]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.21-00.39.52:159][377]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.21-00.39.52:159][377]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.21-00.39.52:159][377]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.21-00.39.52:159][377]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.21-00.39.52:165][377]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.21-00.39.52:165][377]LogAudioMixer: Display: 1: FrontRight
+[2022.01.21-00.39.52:182][377]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek High Definition Audio)
+[2022.01.21-00.39.52:182][377]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.21-00.39.52:182][377]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.21-00.39.52:182][377]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.21-00.39.52:183][377]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.21-00.39.52:183][377]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.21-00.39.52:184][377]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.21-00.39.52:184][377]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.21-00.39.52:184][377]LogInit: FAudioDevice initialized.
+[2022.01.21-00.39.52:184][377]LogAudio: Display: Audio Device (ID: 63) registered with world 'MovementMap'.
+[2022.01.21-00.39.52:191][377]LogLoad: Game class is 'TowerDefenseGameMode_C'
+[2022.01.21-00.39.52:194][377]LogWorld: Bringing World /Game/TowerDefenseBP/Maps/UEDPIE_0_MovementMap.MovementMap up for play (max tick rate 0) at 2022.01.20-21.39.52
+[2022.01.21-00.39.52:195][377]LogWorld: Bringing up level for play took: 0.004155
+[2022.01.21-00.39.52:195][377]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2022.01.21-00.39.52:199][377]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.01.21-00.39.52:199][377]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.01.21-00.39.52:199][377]PIE: Server logged in
+[2022.01.21-00.39.52:200][377]PIE: Play in editor total start time 0.194 seconds.
+[2022.01.21-00.40.05:897][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.21-00.40.05:897][225]LogWorld: BeginTearingDown for /Game/TowerDefenseBP/Maps/UEDPIE_0_MovementMap
+[2022.01.21-00.40.05:897][225]LogWorld: UWorld::CleanupWorld for MovementMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.21-00.40.05:898][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.21-00.40.05:918][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.21-00.40.05:938][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.21-00.40.05:974][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.21-00.40.05:974][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.21-00.40.05:975][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.21-00.40.05:983][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.01.21-00.40.06:027][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.01.21-00.40.06:062][226]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2022.01.21-00.40.13:282][628]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TowerDefenseBP/BP_FinalPortal.BP_FinalPortal
+[2022.01.21-00.40.33:798][822]LogEditorTransaction: Undo Modify Component(s)
+[2022.01.21-00.40.48:820][211]LogEditorTransaction: Undo Modify Component(s)
+[2022.01.21-00.41.01:084][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerDefenseBP/BP_FinalPortal" FILE="../../../../../Documents/Unreal Projects/HollyTD/Content/TowerDefenseBP/BP_FinalPortal.uasset" SILENT=true
+[2022.01.21-00.41.01:093][506]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/HollyTD/Saved/BP_FinalPortalCB896AB24CB7329BF0137699DB4A1C90.tmp' to '../../../../../Documents/Unreal Projects/HollyTD/Content/TowerDefenseBP/BP_FinalPortal.uasset'
+[2022.01.21-00.41.01:111][506]AssetCheck: New page: Asset Save: BP_FinalPortal
+[2022.01.21-00.41.01:112][506]LogContentValidation: Display: Validating Blueprint /Game/TowerDefenseBP/BP_FinalPortal.BP_FinalPortal
+[2022.01.21-00.41.02:415][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerDefenseBP/BP_FinalPortal" FILE="../../../../../Documents/Unreal Projects/HollyTD/Content/TowerDefenseBP/BP_FinalPortal.uasset" SILENT=true
+[2022.01.21-00.41.02:420][643]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/HollyTD/Saved/BP_FinalPortal4A47511544CD32AE27EE2C99AB1118B1.tmp' to '../../../../../Documents/Unreal Projects/HollyTD/Content/TowerDefenseBP/BP_FinalPortal.uasset'
+[2022.01.21-00.41.02:439][643]AssetCheck: New page: Asset Save: BP_FinalPortal
+[2022.01.21-00.41.02:439][643]LogContentValidation: Display: Validating Blueprint /Game/TowerDefenseBP/BP_FinalPortal.BP_FinalPortal
+[2022.01.21-00.41.03:103][718]BlueprintLog: New page: Compile BP_FinalPortal
+[2022.01.21-00.41.03:244][718]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.01.21-00.41.04:195][818]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.01.21-00.41.04:201][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.21-00.41.04:201][818]PIE: New page: PIE session: MovementMap (Jan 20, 2022, 7:41:04 PM)
+[2022.01.21-00.41.04:201][818]LogPlayLevel: Creating play world package: /Game/TowerDefenseBP/Maps/UEDPIE_0_MovementMap
+[2022.01.21-00.41.04:217][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015317s)
+[2022.01.21-00.41.04:219][818]LogAIModule: Creating AISystem for world MovementMap
+[2022.01.21-00.41.04:219][818]LogPlayLevel: PIE: World Init took: (0.002275s)
+[2022.01.21-00.41.04:219][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TowerDefenseBP/Maps/MovementMap.MovementMap to /Game/TowerDefenseBP/Maps/UEDPIE_0_MovementMap.MovementMap (0.017782s)
+[2022.01.21-00.41.04:276][818]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.01.21-00.41.04:278][818]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2022.01.21-00.41.04:279][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.21-00.41.04:279][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.21-00.41.04:279][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.21-00.41.04:279][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.21-00.41.04:279][818]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.21-00.41.04:279][818]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.21-00.41.04:279][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.21-00.41.04:279][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.21-00.41.04:279][818]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.21-00.41.04:279][818]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.21-00.41.04:285][818]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.21-00.41.04:285][818]LogAudioMixer: Display: 1: FrontRight
+[2022.01.21-00.41.04:300][818]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek High Definition Audio)
+[2022.01.21-00.41.04:300][818]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.21-00.41.04:300][818]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.21-00.41.04:300][818]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.21-00.41.04:301][818]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.21-00.41.04:301][818]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.21-00.41.04:302][818]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.21-00.41.04:302][818]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.21-00.41.04:302][818]LogInit: FAudioDevice initialized.
+[2022.01.21-00.41.04:302][818]LogAudio: Display: Audio Device (ID: 64) registered with world 'MovementMap'.
+[2022.01.21-00.41.04:327][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.21-00.41.04:327][818]LogLoad: Game class is 'TowerDefenseGameMode_C'
+[2022.01.21-00.41.04:331][818]LogWorld: Bringing World /Game/TowerDefenseBP/Maps/UEDPIE_0_MovementMap.MovementMap up for play (max tick rate 0) at 2022.01.20-21.41.04
+[2022.01.21-00.41.04:332][818]LogWorld: Bringing up level for play took: 0.005154
+[2022.01.21-00.41.04:332][818]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2022.01.21-00.41.04:336][818]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.01.21-00.41.04:337][818]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.01.21-00.41.04:337][818]PIE: Server logged in
+[2022.01.21-00.41.04:338][818]PIE: Play in editor total start time 0.138 seconds.
+[2022.01.21-00.41.28:796][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.21-00.41.28:796][386]LogWorld: BeginTearingDown for /Game/TowerDefenseBP/Maps/UEDPIE_0_MovementMap
+[2022.01.21-00.41.28:797][386]LogSlate: Window 'HollyTD Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.01.21-00.41.28:809][386]LogWorld: UWorld::CleanupWorld for MovementMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.21-00.41.28:809][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.21-00.41.28:817][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.21-00.41.28:828][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.21-00.41.28:870][386]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.21-00.41.28:870][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.21-00.41.28:871][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.21-00.41.28:880][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.01.21-00.41.28:925][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.01.21-00.41.28:952][387]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2022.01.21-00.41.37:827][222]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TowerDefenseBP/EnemyCharacter.EnemyCharacter
+[2022.01.21-00.42.30:611][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerDefenseBP/EnemyCharacter" FILE="../../../../../Documents/Unreal Projects/HollyTD/Content/TowerDefenseBP/EnemyCharacter.uasset" SILENT=true
+[2022.01.21-00.42.30:624][103]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/HollyTD/Saved/EnemyCharacter03BF5D4F4BE27E0CF36D96B60F298419.tmp' to '../../../../../Documents/Unreal Projects/HollyTD/Content/TowerDefenseBP/EnemyCharacter.uasset'
+[2022.01.21-00.42.30:643][103]AssetCheck: New page: Asset Save: EnemyCharacter
+[2022.01.21-00.42.30:643][103]LogContentValidation: Display: Validating Blueprint /Game/TowerDefenseBP/EnemyCharacter.EnemyCharacter
+[2022.01.21-00.42.30:975][141]BlueprintLog: New page: Compile EnemyCharacter
+[2022.01.21-00.42.31:135][141]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.01.21-00.42.31:907][222]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.01.21-00.42.31:914][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.21-00.42.31:914][222]PIE: New page: PIE session: MovementMap (Jan 20, 2022, 7:42:31 PM)
+[2022.01.21-00.42.31:914][222]LogPlayLevel: Creating play world package: /Game/TowerDefenseBP/Maps/UEDPIE_0_MovementMap
+[2022.01.21-00.42.31:930][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015890s)
+[2022.01.21-00.42.31:932][222]LogAIModule: Creating AISystem for world MovementMap
+[2022.01.21-00.42.31:932][222]LogPlayLevel: PIE: World Init took: (0.001867s)
+[2022.01.21-00.42.31:932][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TowerDefenseBP/Maps/MovementMap.MovementMap to /Game/TowerDefenseBP/Maps/UEDPIE_0_MovementMap.MovementMap (0.017944s)
+[2022.01.21-00.42.31:990][222]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.01.21-00.42.31:992][222]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2022.01.21-00.42.31:992][222]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.21-00.42.31:992][222]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.21-00.42.31:992][222]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.21-00.42.31:992][222]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.21-00.42.31:992][222]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.21-00.42.31:992][222]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.21-00.42.31:992][222]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.21-00.42.31:992][222]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.21-00.42.31:993][222]LogAudio: Display: Using built-in audio occlusion.
+[2022.01.21-00.42.31:993][222]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.21-00.42.31:998][222]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.21-00.42.31:998][222]LogAudioMixer: Display: 1: FrontRight
+[2022.01.21-00.42.32:014][222]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek High Definition Audio)
+[2022.01.21-00.42.32:015][222]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.21-00.42.32:015][222]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.21-00.42.32:015][222]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.21-00.42.32:016][222]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.21-00.42.32:016][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.21-00.42.32:017][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.21-00.42.32:017][222]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.21-00.42.32:017][222]LogInit: FAudioDevice initialized.
+[2022.01.21-00.42.32:017][222]LogAudio: Display: Audio Device (ID: 65) registered with world 'MovementMap'.
+[2022.01.21-00.42.32:059][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.21-00.42.32:059][222]LogLoad: Game class is 'TowerDefenseGameMode_C'
+[2022.01.21-00.42.32:063][222]LogWorld: Bringing World /Game/TowerDefenseBP/Maps/UEDPIE_0_MovementMap.MovementMap up for play (max tick rate 0) at 2022.01.20-21.42.32
+[2022.01.21-00.42.32:064][222]LogWorld: Bringing up level for play took: 0.004775
+[2022.01.21-00.42.32:064][222]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2022.01.21-00.42.32:069][222]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.01.21-00.42.32:069][222]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.01.21-00.42.32:070][222]PIE: Server logged in
+[2022.01.21-00.42.32:071][222]PIE: Play in editor total start time 0.158 seconds.
+[2022.01.21-00.42.45:117][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.21-00.42.45:117][ 64]LogWorld: BeginTearingDown for /Game/TowerDefenseBP/Maps/UEDPIE_0_MovementMap
+[2022.01.21-00.42.45:118][ 64]LogSlate: Window 'HollyTD Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.01.21-00.42.45:133][ 64]LogWorld: UWorld::CleanupWorld for MovementMap, bSessionEnded=true, bCleanupResources=true
+[2022.01.21-00.42.45:134][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.21-00.42.45:151][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.21-00.42.45:192][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.21-00.42.45:236][ 64]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.21-00.42.45:236][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.21-00.42.45:237][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.21-00.42.45:245][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.01.21-00.42.45:294][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.01.21-00.42.45:327][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2022.01.21-00.42.50:318][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerDefenseBP/EnemyCharacter" FILE="../../../../../Documents/Unreal Projects/HollyTD/Content/TowerDefenseBP/EnemyCharacter.uasset" SILENT=true
+[2022.01.21-00.42.50:331][633]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/HollyTD/Saved/EnemyCharacter8B710885402F42EB5FD23889D1709859.tmp' to '../../../../../Documents/Unreal Projects/HollyTD/Content/TowerDefenseBP/EnemyCharacter.uasset'
+[2022.01.21-00.42.50:346][633]AssetCheck: New page: Asset Save: EnemyCharacter
+[2022.01.21-00.42.50:346][633]LogContentValidation: Display: Validating Blueprint /Game/TowerDefenseBP/EnemyCharacter.EnemyCharacter
+[2022.01.21-00.42.59:445][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerDefenseBP/EnemyCharacter" FILE="../../../../../Documents/Unreal Projects/HollyTD/Content/TowerDefenseBP/EnemyCharacter.uasset" SILENT=true
+[2022.01.21-00.42.59:456][697]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/HollyTD/Saved/EnemyCharacter4C709FED4F67CB04D97001AE263A0E6E.tmp' to '../../../../../Documents/Unreal Projects/HollyTD/Content/TowerDefenseBP/EnemyCharacter.uasset'
+[2022.01.21-00.42.59:472][697]AssetCheck: New page: Asset Save: EnemyCharacter
+[2022.01.21-00.42.59:472][697]LogContentValidation: Display: Validating Blueprint /Game/TowerDefenseBP/EnemyCharacter.EnemyCharacter
+[2022.01.21-00.45.01:274][466]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.01.21-00.45.02:452][466]LogSlate: Window 'Save Content' being destroyed
+[2022.01.21-00.45.02:555][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.01.21-00.45.02:577][466]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/HollyTD/Saved/MovementMapE58B1ED84EA6349FE90F86BBB2B0206B.tmp' to '../../../../../Documents/Unreal Projects/HollyTD/Content/TowerDefenseBP/Maps/MovementMap.umap'
+[2022.01.21-00.45.02:590][466]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TowerDefenseBP/Maps/MovementMap_BuiltData
+[2022.01.21-00.45.02:590][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TowerDefenseBP/Maps/MovementMap_BuiltData" FILE="../../../../../Documents/Unreal Projects/HollyTD/Content/TowerDefenseBP/Maps/MovementMap_BuiltData.uasset" SILENT=true
+[2022.01.21-00.45.02:730][466]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/HollyTD/Saved/MovementMap_BuiltData342B7E0D4237927598EBFC9386AE7457.tmp' to '../../../../../Documents/Unreal Projects/HollyTD/Content/TowerDefenseBP/Maps/MovementMap_BuiltData.uasset'
+[2022.01.21-00.45.02:731][466]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TowerDefenseBP/Maps/MovementMap_BuiltData
+[2022.01.21-00.45.02:731][466]LogFileHelpers: Saving map 'MovementMap' took 0.222
+[2022.01.21-00.45.02:746][466]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.21-00.45.02:746][466]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TowerDefenseBP/Maps/MovementMap_BuiltData.MovementMap_BuiltData
+[2022.01.21-00.45.02:746][466]LogContentValidation: Display: Validating World /Game/TowerDefenseBP/Maps/MovementMap.MovementMap
